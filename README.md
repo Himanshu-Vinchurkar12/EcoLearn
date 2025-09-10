@@ -5,7 +5,7 @@ The platform combines **quizzes, eco-challenges, badges, and leaderboards** with
 
 ---
 
-👉 **To see preview, [View Portfolio](https://portfolio-gilt-theta-71.vercel.app/)**  
+👉 **To see preview, [View EcoLearn](https://portfolio-gilt-theta-71.vercel.app/)**  
 
 ---
 
