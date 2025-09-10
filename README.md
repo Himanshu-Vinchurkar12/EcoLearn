@@ -5,6 +5,10 @@ The platform combines **quizzes, eco-challenges, badges, and leaderboards** with
 
 ---
 
+👉 **To see preview, [View Portfolio](https://portfolio-gilt-theta-71.vercel.app/)**  
+
+---
+
 ## ✨ Features  
 - 🎮 **Gamified Learning** – Interactive quizzes, badges, leaderboards  
 - 🌱 **Eco-Challenges** – Plant a tree, save water, avoid plastic (with proof uploads)  
